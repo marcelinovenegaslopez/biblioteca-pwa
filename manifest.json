@@ -1,0 +1,64 @@
+{
+    "name": "#He'BooksDigital",
+    "short_name": "#He'BooksDigital",
+    "description": "Bienvenido a la pagina web HéBooksDigital donde podras descargar libros y tener acceso a busquedas de los mas interesante en literatura, Sumergete en la variedad de contenido, en cuanto a libros que tenemos puedes registrarte y hacer reseñas de los libros que haz leido entre otras cosas.",
+    "background_color": "#ffc200",
+    "theme_color": "#343a40",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [
+      {
+        "src": "./img/icon/icon_1024.png",
+        "sizes": "1024x1024",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icon/icon_512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icon/icon_384.png",
+        "sizes": "384x384",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icon/icon_256.png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icon/icon_192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icon/icon_128.png",
+        "sizes": "128x128",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icon/icon_96.png",
+        "sizes": "96x96",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icon/icon_64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icon/icon_32.png",
+        "sizes": "32x32",
+        "type": "image/png"
+      },
+      {
+        "src": "./img/icon/favicon16x16.png",
+        "sizes": "16x16",
+        "type": "image/png"
+      }
+    ]
+  }
